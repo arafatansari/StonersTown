@@ -1,5 +1,7 @@
 # Stoners Town WTF Minting dApp
 
+stonerstown.wtf
+
 ## Installation
 
 ```bash
